@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoApp35", "UnoApp35\UnoApp35.csproj", "{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAD93C41-55CD-48D2-AE88-5BA825F2DB85}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		Directory.Packages.props = Directory.Packages.props
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E7C7B9-23FB-4D80-91C4-8CA28A865FBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829C02C8-FA6E-4F06-BABE-8A106CECEA9D}
+	EndGlobalSection
+EndGlobal
